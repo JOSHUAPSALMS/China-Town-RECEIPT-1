@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA_TOWN_RECIEPTS_APP.Form1.resources
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.AssemblyInfo.vb
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\bin\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.exe
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\bin\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.deps.json
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\bin\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.runtimeconfig.json
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\bin\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.dll
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\bin\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.pdb
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.dll
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\refint\CHINA TOWN RECIEPTS APP.dll
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.pdb
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\CHINA TOWN RECIEPTS APP.genruntimeconfig.cache
+C:\Users\user\source\repos\CHINA TOWN RECIEPTS APP\obj\Debug\net8.0-windows\ref\CHINA TOWN RECIEPTS APP.dll
